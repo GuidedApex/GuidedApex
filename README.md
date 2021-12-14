@@ -7,4 +7,6 @@ Hello, My name is GuidedApex. I am a junior developer eager to learn many differ
 - [Discord](https://discord.gg/fGswqpg2T9)
 - [Twitter](https://twitter.com/gamerz_apex)
 
+## Known Languages
 
+<a href="https://en.wikipedia.org/wiki/PHP" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
