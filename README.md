@@ -1,3 +1,8 @@
+# My Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=GuidedApex&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidedApex&langs_count=4&layout=compact)
+
+
 # Welcome
 
 Hello, My name is GuidedApex. I am a junior developer eager to learn many different languages! I have now been programming for 6 months now and have learnt so much new skills. I am currently working on my server [Voltage](https://discord.gg/fGswqpg2T9) and hope to release it very soon! I am a determined person who believes that anything is possible if you put your mind to it!
