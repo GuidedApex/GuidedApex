@@ -1,6 +1,5 @@
 # My Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GuidedApex&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidedApex&langs_count=4&layout=compact)
 
 
 # Welcome
