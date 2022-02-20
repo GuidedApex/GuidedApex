@@ -4,7 +4,7 @@
 
 # Welcome
 
-Hello, My name is GuidedApex. I am 14 years old. I am a developer eager to learn many different languages! I have now been programming for 7 months now and have learnt so much new skills. I am a determined person who believes that anything is possible if you put your mind to it!
+Hello, My name is GuidedApex. I am a developer eager to learn many different languages! I have now been programming for 9 months now and have learnt so much new skills. I am a determined person who believes that anything is possible if you put your mind to it!
 
 ## Contact Me
 
